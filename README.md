@@ -4,7 +4,7 @@ Project Structure
 
 ecommerce.sql: SQL script to create the entire database schema.
 sample_data.sql: Sample data to populate the database for testing.
-ERD.png: Visual Entity-Relationship Diagram of the database structure.
+ERD.drawio.png: Visual Entity-Relationship Diagram of the database structure.
 
 Tables Overview
 
